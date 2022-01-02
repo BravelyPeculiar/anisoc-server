@@ -14,7 +14,7 @@ To start with, make sure you have a valid Minecraft Java Edition account, and ha
 
 ## Installing the Anisoc modpack
 
-1. Download [anisoc_modpack.zip](), and extract it to a safe location on your computer
+1. Download [anisoc_modpack.zip](https://github.com/BravelyPeculiar/anisoc-server/releases), and extract it to a safe location on your computer
 2. Open the Minecraft launcher, and select the **Installations** tab
 3. Press **New installation**, and enter these settings:
     - Name: `Anisoc`

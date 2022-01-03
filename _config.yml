@@ -1,6 +1,6 @@
 title: Anisoc Minecraft Server
 description: A lightly-modded Minecraft server for the UoB Anime and Manga Society
-theme: cayman
+theme: jekyll-theme-cayman
 
 github:
   is_project_page: false

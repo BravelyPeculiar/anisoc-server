@@ -41,4 +41,4 @@ This setup will make Minecraft's audio more realistic if you're wearing headphon
 
 You're finished! Sound positioning in Minecraft should now be more realistic.
 
-Depending on the specific shape of your head (yes really!) this effect may not work as well on some people, and in some cases may be distracting or cause mild headaches. If you want to disable the effect later, simply go back to the `alsoft.ini` file and edit it to say ``hrtf = false`.
+Depending on the specific shape of your head (yes really!) this effect may not work as well on some people, and in some cases may be distracting or cause mild headaches. If you want to disable the effect later, simply go back to the `alsoft.ini` file and edit it to say `hrtf = false`.
